@@ -1,6 +1,6 @@
 <?php
 
-require_once 'beheer/Connections.php'; 
+require_once 'Connections.php'; 
 
 /**
  * Class Openings gets all the openinghours for each day.
